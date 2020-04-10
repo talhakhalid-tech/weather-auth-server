@@ -1,4 +1,3 @@
-const path = require('path')
 const express = require('express')
 require('../db/mongoose.js')
 const userRouter = require('../routers/users')
